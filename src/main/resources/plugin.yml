@@ -1,0 +1,8 @@
+name: Stanky
+version: @version@
+main: cz.angelo.stanky.Main
+api-version: 1.16
+authors: [ Angelo753 ]
+commands:
+  stanky:
+    aliases: [stanek, market, markets]
